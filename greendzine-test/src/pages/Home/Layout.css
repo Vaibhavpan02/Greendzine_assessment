@@ -1,0 +1,13 @@
+body {
+    background: #000;
+}
+
+.profile-container {
+    background: #000;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.profile-icon {
+    margin: 1rem;
+}

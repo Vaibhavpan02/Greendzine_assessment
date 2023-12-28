@@ -1,0 +1,21 @@
+.card-title {
+    background: #0D0D0D;
+}
+
+.card-weekly {
+    background: #0D0D0D;
+}
+
+
+.card-title {
+    margin-bottom: -20px;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    border-radius: 30px;
+    box-shadow: inset 0px 4px 0px #00000040;
+}
+
+.card-weekly {
+    border-radius: 0 0 30px 30px;
+}

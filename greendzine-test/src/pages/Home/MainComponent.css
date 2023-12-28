@@ -1,0 +1,19 @@
+.main-container {
+    position: relative;
+}
+
+.navbar {
+    background: #0D0D0D;
+    width: 300px;
+    padding: 0.7rem 1.7rem;
+    z-index: 2;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 3rem;
+    justify-content: space-evenly;
+}
+
+.navbar a {
+    font-size: 1.7rem;
+    color: #36A54680;
+}
